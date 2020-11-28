@@ -9,4 +9,3 @@
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/CodeAayu)
 - 😄 Interests - Doing and teaching Skating/Skateboarding, and talking about the universe.
 - ⚡ Fun fact: [Google](https://www.google.com/search?q=CodeAayu) **CodeAayu** 
--->
