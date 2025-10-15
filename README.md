@@ -7,7 +7,8 @@ Backend engineer building reliable systems at scale. Photographer, writer, and v
 - Education: Integrated MTech, Mathematics & Computing — IIT(ISM) Dhanbad
 
 ## What I’m Into
-- Engineering: Python/Django, Haskell, clean APIs, dependable systems
+- Engineering: Java (Dropwizard), Maven, microservices, clean APIs, reliability
+- Also: TypeScript/React for internal consoles when needed
 - Creatives: Travel/portrait photography, writing, content storytelling
 
 ## See My Work
