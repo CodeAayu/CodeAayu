@@ -100,20 +100,6 @@ Building and maintaining microservices for India's largest B2B e-commerce platfo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  ![CodeAayu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeAayu&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAayu&layout=compact&theme=radical&hide_border=true)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeAayu&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Currently
 
 - 🔨 Building scalable microservices at udaan.com
@@ -160,8 +146,6 @@ Coffee chats about technology, photography, system design, creative storytelling
 <div align="center">
 
   ### 💭 "Code with logic, create with passion, capture with purpose"
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=CodeAayu&color=6366f1&style=flat-square&label=Profile+Views)
 
   ⭐️ From [CodeAayu](https://github.com/CodeAayu) | Last updated: October 2025
 
