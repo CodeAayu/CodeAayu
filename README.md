@@ -5,7 +5,7 @@
   <!-- <img src="https://your-custom-banner-url.jpg" alt="CodeAayu Banner" width="100%"> -->
 
   # Hi, I'm Aayush Ahuja 👋
-  ### Backend Engineer | Photographer | Visual Storyteller
+  ### Software Engineer | Photographer | Visual Storyteller
 
   *Building reliable systems at scale by day, capturing moments through lens by evening*
 
@@ -20,11 +20,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Backend Engineer** at [udaan.com](https://udaan.com) in Bangalore, building microservices that power India's largest B2B e-commerce platform. When I'm not writing code, you'll find me behind the camera capturing travel landscapes, portraits, and wildlife moments.
+I'm a **Software Engineer** at **Birla AI Labs**, which I joined in September 2026. Before that, I spent five years as a backend engineer at [udaan.com](https://udaan.com) in Bangalore, building microservices that power India's largest B2B e-commerce platform. When I'm not writing code, you'll find me behind the camera capturing travel landscapes, portraits, and wildlife moments.
 
 - 🎓 **Education**: Integrated MTech in Mathematics & Computing — IIT (ISM) Dhanbad
-- 💼 **Current**: SDE III at udaan.com (Bangalore)
-- 🔭 **Previously**: Nutanix (MTS Intern), Juspay, YellowAnt
+- 💼 **Current**: Software Engineer at Birla AI Labs (since September 2026)
+- 🔭 **Previously**: udaan.com (SDE III, 2021–2026), Nutanix (MTS Intern), Juspay, YellowAnt
 - 📸 **Creative**: 500+ curated photos across 15+ cities in India and beyond
 - ✍️ **Writer**: 9+ published articles on creativity, technology, and life
 - 🌍 **Based in**: Bangalore, Karnataka, India
@@ -54,6 +54,11 @@ I specialize in building **scalable backend systems** with a focus on reliabilit
 - System Design at Scale
 - Clean Code & SOLID Principles
 - Test-Driven Development
+
+**Side Projects**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -88,13 +93,18 @@ Beyond code, I'm a **passionate photographer and visual storyteller** documentin
 
 ## 🚀 Featured Projects
 
+### 📺 [AirPlay TV Receiver](https://github.com/CodeAayu/airplay-tv-receiver)
+An open-source Android TV / Google TV app that lets a Mac, iPhone or iPad mirror its screen to the TV, up to 4K at 60 fps with sound, and play AirPlay music in lossless quality. A free alternative to paid AirPlay receiver apps, with the APK on the [releases page](https://github.com/CodeAayu/airplay-tv-receiver/releases/latest).
+
+**Tech**: Java, C, JNI, Android NDK, MediaCodec, mDNS, built on [UxPlay](https://github.com/FDH2/UxPlay)
+
 ### 📸 [Personal Website - CodeAayu Creatives](https://codeaayucreatives.co.in)
 A fully SEO-optimized photography portfolio showcasing 500+ curated photos across travel, portrait, wildlife, and scenic categories. Features comprehensive meta tags, structured data (Schema.org), social media optimization, and geographic SEO targeting.
 
 **Tech**: HTML5, CSS3, JavaScript, Responsive Design, SEO Optimization
 
-### 🔨 [Professional Work at udaan.com]
-Building and maintaining microservices for India's largest B2B e-commerce platform, serving thousands of businesses across the country.
+### 🔨 Professional Work at udaan.com (2021–2026)
+Built and maintained microservices for India's largest B2B e-commerce platform, serving thousands of businesses across the country.
 
 **Tech**: Java, Dropwizard, Microservices, RESTful APIs
 
@@ -102,7 +112,8 @@ Building and maintaining microservices for India's largest B2B e-commerce platfo
 
 ## 🎯 Currently
 
-- 🔨 Building scalable microservices at udaan.com
+- 🧠 Starting a new chapter at Birla AI Labs
+- 📺 Open-sourcing side projects — latest: [AirPlay TV Receiver](https://github.com/CodeAayu/airplay-tv-receiver)
 - 📚 Deepening expertise in distributed systems and system design
 - 📸 Working on a new travel photography series from recent explorations
 - ✍️ Writing about the intersection of technology and creativity
@@ -147,6 +158,6 @@ Coffee chats about technology, photography, system design, creative storytelling
 
   ### 💭 "Code with logic, create with passion, capture with purpose"
 
-  ⭐️ From [CodeAayu](https://github.com/CodeAayu) | Last updated: October 2025
+  ⭐️ From [CodeAayu](https://github.com/CodeAayu) | Last updated: October 2026
 
 </div>
